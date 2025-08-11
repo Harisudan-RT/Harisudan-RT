@@ -67,12 +67,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harisudan-RT/Harisudan-RT/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harisudan-RT&label=Profile+Views&color=FF5733&style=for-the-badge" alt="Profile views" />
